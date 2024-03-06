@@ -1,0 +1,2 @@
+stop();
+btn.useHandCursor = false;

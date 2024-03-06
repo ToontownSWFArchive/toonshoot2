@@ -1,0 +1,3 @@
+Money, money, money 
+--- RECORDSEPARATOR ---
+is everything!

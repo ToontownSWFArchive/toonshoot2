@@ -1,0 +1,2 @@
+_parent.SpeedReset();
+LastHant();

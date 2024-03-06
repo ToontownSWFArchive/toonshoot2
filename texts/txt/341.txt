@@ -1,0 +1,3 @@
+Are you sure you want 
+--- RECORDSEPARATOR ---
+to delete all the scores?

@@ -1,0 +1,7 @@
+These are your best 5 scores. 
+--- RECORDSEPARATOR ---
+When did you do the best? 
+--- RECORDSEPARATOR ---
+If you quit a game in the middle 
+--- RECORDSEPARATOR ---
+your score is recorded.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="93.55px" width="264.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="79.45" transform="matrix(0.5714, 0.0, 0.0, 0.6199, 47.3, 36.45)" width="221.05" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M215.7 16.35 Q220.9 23.75 221.05 33.0 220.9 42.25 215.7 49.65 210.45 57.1 201.7 61.5 192.9 65.9 182.05 66.05 L119.35 66.05 112.5 79.45 105.85 66.05 39.0 66.05 Q28.1 65.9 19.3 61.5 10.5 57.1 5.3 49.65 0.1 42.25 0.0 33.0 0.1 23.75 5.3 16.35 10.55 8.85 19.3 4.45 28.1 0.1 39.0 0.0 L182.05 0.0 Q192.9 0.1 201.7 4.55 210.5 8.85 215.7 16.35" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

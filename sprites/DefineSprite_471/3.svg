@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="26.0px" width="81.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 63.5, 2.3)">
+    <use height="26.0" transform="matrix(1.0, 0.0, 0.0, 1.0, -40.0, -2.3)" width="57.5" xlink:href="#text0"/>
+    <use height="11.3" transform="matrix(1.0, 0.0, 0.0, 1.0, -63.5, 6.15)" width="57.75" xlink:href="#text1"/>
+  </g>
+  <defs>
+    <g id="text1" transform="matrix(1.0, 0.0, 0.0, 1.0, -20.0, -3.7)">
+      <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+        <use fill="#ffffff" height="11.3" transform="matrix(0.3516, 0.0, 0.0, 0.3516, 19.0, 15.0)" width="57.75" xlink:href="#font_______W7_L0"/>
+        <use fill="#ffffff" height="11.3" transform="matrix(0.3516, 0.0, 0.0, 0.3516, 30.55, 15.0)" width="57.75" xlink:href="#font_______W7_E0"/>
+        <use fill="#ffffff" height="11.3" transform="matrix(0.3516, 0.0, 0.0, 0.3516, 42.6, 15.0)" width="57.75" xlink:href="#font_______W7_V0"/>
+        <use fill="#ffffff" height="11.3" transform="matrix(0.3516, 0.0, 0.0, 0.3516, 54.3, 15.0)" width="57.75" xlink:href="#font_______W7_E0"/>
+        <use fill="#ffffff" height="11.3" transform="matrix(0.3516, 0.0, 0.0, 0.3516, 66.35, 15.0)" width="57.75" xlink:href="#font_______W7_L0"/>
+      </g>
+    </g>
+    <g id="font_______W7_L0">
+      <path d="M30.55 -8.45 L30.55 -8.45 12.65 -6.2 10.2 -31.55 5.3 -32.15 2.55 0.05 8.05 -0.55 32.1 -0.65 30.55 -8.45" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_______W7_E0">
+      <path d="M31.25 -9.2 L31.25 -9.2 12.6 -6.6 12.0 -12.95 30.3 -12.95 28.75 -20.5 11.5 -17.95 10.9 -24.05 31.85 -24.05 30.3 -31.55 10.45 -29.1 10.2 -31.5 5.3 -32.15 2.55 0.05 13.15 -1.1 13.1 -1.45 32.75 -1.45 31.25 -9.2" fill-rule="evenodd" stroke="none"/>
+    </g>
+    <g id="font_______W7_V0">
+      <path d="M22.1 -32.15 L22.1 -32.15 16.1 -9.6 4.5 -31.65 0.75 -29.6 14.2 0.05 18.6 -0.65 32.45 -27.5 22.1 -32.15" fill-rule="evenodd" stroke="none"/>
+    </g>
+  </defs>
+</svg>

@@ -1,0 +1,2 @@
+stop();
+btn_GoGo();

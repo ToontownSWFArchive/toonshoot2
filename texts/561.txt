@@ -1,0 +1,3 @@
+Click the Sound button 
+--- RECORDSEPARATOR ---
+to turn sound on and off.
